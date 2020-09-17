@@ -55,7 +55,7 @@ Output example
 ------------------------------------------------------------
 
 Linha de montagem 1:
-09:00 Cutting of steel sheets 60min
+09:00 Cutting of steel sheets 60min 
 10:00 Injection subsystem assembly 60min
 11:00 Navigation subsystem assembly 60min
 12:00 Almoço
