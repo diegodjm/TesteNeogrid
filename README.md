@@ -80,3 +80,6 @@ Linha de montagem 2:
 15:15 Axis calibration 30min
 15:45 Austenpera (Heat treatment) 30min
 16:15 Ginástica laboral
+
+
+Utilizar o arquivo "entrada.txt" para importar as informações.
